@@ -7,7 +7,7 @@ int main () {
 	// do some random stuff
 	int i, j = 5;
 	for (i = 1; i <= 10; i++) {
-		cout << i << endl;
+		cout << i * j << endl;
 	}
 	return 0;
 	// Another line
