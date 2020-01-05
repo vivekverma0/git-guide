@@ -5,7 +5,7 @@ using namespace std;
 
 int main () {
 	// do some random stuff
-	int i, j = 5;
+	int i, j = 5, k;
 	for (i = 1; i <= 10; i++) {
 		cout << i * j << endl;
 	}
